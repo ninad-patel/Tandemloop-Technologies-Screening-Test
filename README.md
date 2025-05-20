@@ -3,7 +3,7 @@
 This repository contains my submission for the First Screening Test for the Full Stack Developer position at Tandemloop Technologies.  
 All the problems are solved using the Java programming language.
 
-As per the instructions, the project folder is named after me and contains separate Java files for each solution. It also includes '.class' files that were generated during compilation.
+As per the instructions, the project folder is named after me and contains separate Java files for each solution. It also includes class files that were generated during compilation.
 
 Screening Test Questions :-
 
